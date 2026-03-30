@@ -31,7 +31,7 @@ using the Iris dataset.
 
 | Model               | Accuracy |
 | ------------------- | -------- |
-| Logistic Regression | 0.97     |
+| Logistic Regression | 1.00     |
 | KNN                 | 1.00     |
 | Decision Tree       | 1.00     |
 

@@ -1,5 +1,4 @@
 # ML_MODEL_COMPARISON
-# 📊 Model Comparison (ML Assignment)
 
 ## 📌 Objective
 
